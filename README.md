@@ -2,6 +2,8 @@
 
 Tech Stack : Java SE, Swing
 
+Process to Execute the App : Open the Code in NetBeans IDE and run the MyCurrencyConverter.java   
+
 1.Screen after executing the Program
 
 <img width="487" alt="Screen1" src="https://user-images.githubusercontent.com/53010354/204537701-49599f78-eaa5-470d-a394-09b1b0ae0c0c.png">
