@@ -1,5 +1,7 @@
 # CurrencyConverterApp
 
+Tech Stack : javaSE, Swing
+
 1.Screen after executing the Program
 
 <img width="487" alt="Screen1" src="https://user-images.githubusercontent.com/53010354/204537701-49599f78-eaa5-470d-a394-09b1b0ae0c0c.png">
