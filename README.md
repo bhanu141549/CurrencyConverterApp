@@ -1,6 +1,6 @@
 # CurrencyConverterApp
 
-Tech Stack : javaSE, Swing
+Tech Stack : Java SE, Swing
 
 1.Screen after executing the Program
 
